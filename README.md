@@ -90,13 +90,5 @@ Here are some ideas to get you started:
 
   ---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/ap
-  i?username=umerarain90&hide_border=true&bg_color=0a0a09&title_color=a8ff60&text_color=ededea&ico
-  n_color=a8ff60&hide=stars,issues&show_icons=true&count_private=true&include_all_commits=true">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=umerarain90&h
-  ide_border=true&hide=stars,issues&show_icons=true&count_private=true&include_all_commits=true">
-  </picture>
-
   ```
   // eof · this profile is a living spec sheet · ⌘k available on umersaeed.com
