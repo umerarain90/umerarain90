@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   emerging     web3 · rwa · ar/vr · blockchain
   ```
   
-  ### /* selected references */
+  ### selected references
 
   > "a pragmatic problem solver and an outrageous user interaction designer. there is no challenge
    i have not seen him solve excellently."
