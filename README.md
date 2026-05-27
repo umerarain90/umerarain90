@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   ~/umer $ cat about.md
 
   10 years designing b2b and b2c products.
-  currently building one solo.
+  from solo founder to 15-person design lead.
   from wireframe to merge commit.
   designer–engineer. ai is the default toolchain.
   ```
